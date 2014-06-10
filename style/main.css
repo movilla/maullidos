@@ -1,5 +1,6 @@
-.fila_1 {
-  display: inline-flex;
+#sonidos {
+  display: inline-block;
+  margin: 5px;
 }
 
 .miao {  
@@ -32,9 +33,3 @@
   width: 20px;
   height: 20px;
 }
-
-.sonidos_2, .sonidos_3, .sonidos_4 {
-  margin-left: 15px;
-}
-
-
