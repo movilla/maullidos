@@ -15,7 +15,7 @@ body {
 .b_play {
   width: 30px;
   height: 30px;
-  background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.8);
+  background: #000 none repeat scroll 0% 0%;
   border-radius: 3px;
 }
 
@@ -27,7 +27,7 @@ body {
 .b_pause {
   width: 30px;
   height: 30px;
-  background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.8);
+  background: #000 none repeat scroll 0% 0%;
   border-radius: 3px;
   margin-left: 15px;
 }
