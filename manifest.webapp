@@ -1,0 +1,10 @@
+{
+  "name": "Sonidos de gatos",
+  "description": "Reproduce sonidos de gatos",
+  "launch_path": "/index.html",
+  "version": "0.0.1",
+  "icons": {
+    "128": "/img/icono.png"
+  },
+  "default_locale": "es"
+}
