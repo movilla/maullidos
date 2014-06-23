@@ -16,3 +16,5 @@ document.querySelector('#b08a').onclick = function () { document.getElementById(
 document.querySelector('#b08b').onclick = function () { document.getElementById('sonido_8').pause(); };
 document.querySelector('#b09a').onclick = function () { document.getElementById('sonido_9').play(); };
 document.querySelector('#b09b').onclick = function () { document.getElementById('sonido_9').pause(); };
+document.querySelector('#b10a').onclick = function () { document.getElementById('sonido_10').play(); };
+document.querySelector('#b10b').onclick = function () { document.getElementById('sonido_10').pause(); };
