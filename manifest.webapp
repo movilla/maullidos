@@ -1,7 +1,7 @@
 {
   "name": "Maullidos",
   "description": "Reproduce sonidos de gatos",
-  "version": "v0.0.3",
+  "version": "0.0.4",
   "launch_path": "/index.html",
   "icons": {
     "128": "/img/icono.png"
